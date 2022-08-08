@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sugatoray)](https://github.com/LordDashMe/github-contribution-stats/)
+
+<!---
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sugatoray&theme=tokyonight)](https://git.io/streak-stats) |
+|:---:|
+| GitHub Streak Stats |
+--->
