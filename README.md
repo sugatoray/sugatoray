@@ -23,11 +23,29 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/sugatoray"><kbd>Twitter</kbd></a> | <a href="https://www.linkedin.com/in/sugatoray/"><kbd>LinkedIn</kbd></a> | <a href="https://www.reddit.com/user/sugatoray/submitted/?sort=top"><kbd>Reddit</kbd></a> | <a href="https://github.com/sugatoray"><kbd>GitHub</kbd></a> | <a href="https://gist.github.com/sugatoray"><kbd>Gist</kbd></a> | <a href="https://stackoverflow.com/users/8474894/cypherx"><kbd>Stack Overflow</kbd></a> </pre></p>
 
 
-<a href="https://metrics.lecoq.io/about/sugatoray"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/sugatoray"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
-
+<p align="left">
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sugatoray)](https://github.com/LordDashMe/github-contribution-stats/)
+
+</p>
+
+<!---
+## Stats from Metrics
+
+Sources: 
+
+- App: https://metrics.lecoq.io/embed?user=sugatoray 
+- Insights: https://metrics.lecoq.io/insights/sugatoray
+- GitHub Action: https://github.com/lowlighter/metrics
+
+
+For more details visit [*sugatoray | metrics-insights*](https://metrics.lecoq.io/insights/sugatoray).
+
+<p>
+<a href="https://metrics.lecoq.io/about/sugatoray"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/sugatoray"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
+</p>
+--->
 
 <!---
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sugatoray&theme=tokyonight)](https://git.io/streak-stats) |
