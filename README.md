@@ -27,6 +27,18 @@ Here are some ideas to get you started:
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sugatoray)](https://github.com/LordDashMe/github-contribution-stats/)
 
+<!---
+<a href="https://github.com/sugatoray">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sugatoray&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugatoray&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
+</a>
+--->
+
+<img height="137px" src="http://github-readme-streak-stats.herokuapp.com?user=sugatoray&theme=dracula&hide_border=true"/>
+<a href="https://stackoverflow.com/users/8474894/cypherx">
+  <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=8474894&theme=dracula&showBorder=false" />
+</a>
+
 </p>
 
 <!---
