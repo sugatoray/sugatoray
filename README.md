@@ -34,11 +34,19 @@ Here are some ideas to get you started:
 
 - Mathematical & Statistical Modelling
 - MLOps, GitOps, DevOps, Git, Azure DevOps, GitLab, GitHub, CICD Pipelines
-- Quantum Mechanics, Quantum Computation, Cuantum ML,
+- Quantum Mechanics, Quantum Computation, Quantum ML,
 - Bash (shell-scripting), Linux
 - GenAI
+  - LLM finetuning (SFT, PPO, DPO, GRPO)
+  - LLM guardrails
+  - LLM ovservability
+  - Ollama (Local AI)
+  - Vector DBs
+  - AI Agents
+  - MCP, A2A
 - SAS Programming
-- Data Engineering  
+- Data Engineering / SQL
+  - DuckDB, Pandas, Polars, Ibis
 
 
 <p align="left">
